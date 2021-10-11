@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/door_top",
+    "textures": {
+        "top": "user:master",
+        "bottom": "user:master"
+    }
+}

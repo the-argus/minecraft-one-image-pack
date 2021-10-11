@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/template_piston",
+    "textures": {
+        "platform": "user:master",
+        "bottom": "user:master",
+        "side": "user:master"
+    }
+}

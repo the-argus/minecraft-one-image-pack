@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:block/cube",
+    "textures": {
+        "particle": "user:master",
+        "north": "user:master",
+        "south": "user:master",
+        "east": "user:master",
+        "west": "user:master",
+        "up": "user:master",
+        "down": "user:master"
+    }
+}

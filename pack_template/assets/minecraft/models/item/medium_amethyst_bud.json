@@ -1,0 +1,15 @@
+{
+    "parent": "item/amethyst_bud",
+    "textures": {
+        "layer0": "user:master"
+    },
+    "display": {
+        "fixed": {
+            "translation": [
+                0,
+                6,
+                0
+            ]
+        }
+    }
+}

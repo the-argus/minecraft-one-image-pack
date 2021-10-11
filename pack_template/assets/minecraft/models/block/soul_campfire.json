@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/template_campfire",
+    "textures": {
+        "fire": "user:master",
+        "lit_log": "user:master"
+    }
+}

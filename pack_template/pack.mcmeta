@@ -1,0 +1,21 @@
+{
+    "pack": {
+        "pack_format": 7,
+        "description": [
+            {
+                "translate": "%1$s%4346964$s",
+                "with": [
+                    {
+                        "text": "THERE IS ONLY ONE",
+                        "color": "red"
+                    }
+                ]
+            },
+            "\n",
+            {
+                "text": "MC1.17+",
+                "color": "dark_gray"
+            }
+        ]
+    }
+}

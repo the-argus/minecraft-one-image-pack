@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/cube_bottom_top",
+    "textures": {
+        "top": "user:master",
+        "bottom": "user:master",
+        "side": "user:master",
+        "particle": "user:master"
+    }
+}
